@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6948f90a4EfA69d3027457aA0524b214ec21D9ED",
+  "SCAN_LINK": "https://etherscan.io/0x6948f90a4EfA69d3027457aA0524b214ec21D9ED",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ETHANDS",
+  "SYMBOL": "ETHANDS",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 110000000000000000,
+  "DISPLAY_COST": 0.11000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ethands",
+  "SHOW_BACKGROUND": true
+}
