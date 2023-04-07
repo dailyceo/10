@@ -263,6 +263,10 @@ function App() {
             <s.SpacerLarge />
             <s.SpacerLarge />
             <s.SpacerLarge /> */}
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+            <s.SpacerLarge />
 
 
             <s.TextDescription
@@ -393,7 +397,7 @@ function App() {
                         getData();
                       }}
                     >
-                      CONNECT
+                      MINT
                     </StyledButton>
 
                     {blockchain.errorMsg !== "" ? (
