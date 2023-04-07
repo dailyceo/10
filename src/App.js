@@ -295,7 +295,7 @@ function App() {
                 color: "var(--primary)",
               }}
             >
-              Mint April 07, 12:00 UTC
+              Minting is Live
             </s.TextDescription>
 
 
